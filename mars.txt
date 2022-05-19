@@ -1,3 +1,2 @@
 this is the first edit
-this is the second edit
-third line
+this is the third edit
